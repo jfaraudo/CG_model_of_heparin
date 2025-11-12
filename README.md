@@ -7,6 +7,6 @@ The performance of the model is checked against experimental results for the rad
 
 Contents of the repository:
 - *Dihedral_exploration*: effect of dihedral force constants in the radius of gyration of heparin.
-- *Ionic strenght exploration*: Effect of salt concentration
+- *Ionic strenght exploration*: Effect of salt concentration (**pending**)
 
 
