@@ -1,0 +1,30 @@
+
+
+*******************************************************************************
+Fri Nov 14 16:02:55 2025
+
+
+FIT:    data read from 'Rg.dat' u 2:($3/bs)
+        format = x:z
+        #datapoints = 100001
+        residuals are weighted equally (unit weight)
+
+function used for fitting: l(x)
+	l(x) = avRg
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   avRg         
+   0 4.0952839913e+05   0.00e+00  1.00e+00    1.000000e+00
+   2 2.8774391596e+03  -1.41e-03  1.00e-02    3.016549e+00
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 2877.44
+rel. change during last iteration : -1.41318e-08
+
+degrees of freedom    (FIT_NDF)                        : 100000
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.16963
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0287744
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+avRg            = 3.01655          +/- 0.0005364    (0.01778%)
